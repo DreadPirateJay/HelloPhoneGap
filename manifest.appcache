@@ -1,0 +1,31 @@
+CACHE MANIFEST
+
+# Time: Wed Apr 24 2013 22:27:26 GMT-0500 (Central Daylight Time)
+# This manifest was created by confess.js, http://github.com/jamesgpearce/confess
+#
+# Retrieved URL: http://localhost:3501/
+# User-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.12 Safari/535.11
+#
+# Config:
+#  task: appcache
+#  userAgent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.12 Safari/535.11
+#  wait: 0
+#  consolePrefix: #
+#  verbose: true
+#  appcache:
+#   urlsFromDocument: true
+#   urlsFromRequests: false
+#   cacheFilter: .*
+#   networkFilter: null
+#  url: http://localhost:3501
+#  configFile: C:\Program Files\nodejs\node_modules\yeoman\lib\support\confess.json
+
+CACHE:
+components/jquery-mobile/css/themes/default/jquery.mobile.css
+components/jquery/jquery-migrate.min.js
+components/jquery/jquery.min.js
+http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.js
+http://localhost:3501/components/jquery-mobile/css/themes/default/images/ajax-loader.gif
+
+NETWORK:
+*
